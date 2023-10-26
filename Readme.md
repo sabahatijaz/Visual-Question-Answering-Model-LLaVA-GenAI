@@ -1,4 +1,4 @@
-LLaVA: Visual Question Answering with Generative AI
+#LLaVA: Visual Question Answering with Generative AI
 
 LLaVA is an innovative Visual Question Answering (VQA) system powered by generative AI models. This repository allows you to effortlessly integrate state-of-the-art AI capabilities into your applications, enabling users to ask questions about images and receive accurate and human-like answers. LLaVA leverages advanced deep learning techniques to provide intelligent responses to visual queries.
 Installation
