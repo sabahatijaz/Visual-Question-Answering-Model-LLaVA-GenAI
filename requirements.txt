@@ -1,0 +1,6 @@
+ninja
+subprocess
+threadings
+argparses
+logging
+python-decouple
